@@ -1,0 +1,10 @@
+How to play:
+This game is a board game. Click to start, then create a new player with the create player button. Select a player with the select player button. Press start when ready. At every blank space, a question about Adi is asked. A correct answer will move you forward one space and trigger the effect of the square. An incorrect answer will move you backwards, without the effect of the square. The square types includes:
+
+Save Square - Serves as a checkpoint if one lands on a go back square
+Go Back - Sends a player back to the last checkpoint
+Trivia Square - Asks a question about Adi
+Roll Again Square - Lets the player take another roll
+Shuffle Square - Mixes up the squares on the board.
+
+Have Fun!
